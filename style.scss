@@ -138,6 +138,11 @@ header{
             & li:last-child a{
                 margin-left: .5rem;
                 background-color: var(--Yellow);
+                &:hover{
+                    background-color: var(--Yellow);
+                    color:black
+
+                }
             }
     }
     h1{

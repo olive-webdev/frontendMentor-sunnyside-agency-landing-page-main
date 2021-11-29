@@ -173,6 +173,10 @@ header nav ul a {
     margin-left: .5rem;
     background-color: var(--Yellow);
   }
+  header nav ul li:last-child a:hover {
+    background-color: var(--Yellow);
+    color: black;
+  }
   h1 {
     font-size: 2.5rem;
   }
